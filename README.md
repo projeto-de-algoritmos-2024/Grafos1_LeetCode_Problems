@@ -1,36 +1,22 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# LeetCode Problems
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 39<br>
+**Conteúdo da Disciplina**: Grafos 01<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 202063201  |  Ester Flores Lino da Silva |
+| 190028475  |  Gabriela Tiago de Araujo  |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório tem como objetivo a resolução de exercícios da plataforma LeetCode sobre o conteúdo de Grafos 1, representando assim a entrega do trabalho 1 da disciplina Projeto de Algoritmos.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: Python<br>
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
