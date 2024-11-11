@@ -14,14 +14,15 @@
 
 Este repositório tem como objetivo a resolução de exercícios da plataforma LeetCode sobre o conteúdo de Grafos 1, representando assim a entrega do trabalho 1 da disciplina Projeto de Algoritmos.
 
-| Código |       Nome      | Dificuldade |       Responsável        |
-|:------:|:---------------:|:-----------:|:------------------------:|
-|  841   | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)  |    Médio    | Gabriela Tiago de Araujo |
-|  2924  | [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/) | Médio | Ester Flores Lino da Silva |
+| Código |       Nome      | Dificuldade |
+|:------:|:---------------:|:-----------:|
+|  841   | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)  |    Médio    |
+|  2924  | [Find Champion II](https://leetcode.com/problems/find-champion-ii/description/) | Médio |
 
 ## Screenshots
 
 **Exercício 2924**
+![Submissão 2924](./find_champion_II/imagens/exercícios2924.png)
 
 ## Instalação
 
@@ -35,6 +36,6 @@ Para verificar os exercícios, os códigos devem ser executados na plataforma [L
 ## Vídeos de apresentação
 
 - [Link do vídeo de explicação do exercício 841]()
-- [Link do vídeo de explicação do exercício 2924]()
+- [Link do vídeo de explicação do exercício 2924](https://www.youtube.com/watch?v=KmBRY8uAa64)
 - []()
 - []()
