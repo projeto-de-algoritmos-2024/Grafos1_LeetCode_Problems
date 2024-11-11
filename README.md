@@ -26,7 +26,7 @@ Este repositório tem como objetivo a resolução de exercícios da plataforma L
 ## Instalação
 
 **Linguagem**: Python</br>
-**Pré-requisitos**: Possuir Pythin instalado na máquina.</br>
+**Pré-requisitos**: Possuir Python instalado na máquina.</br>
 
 ## Uso
 
